@@ -1,4 +1,5 @@
 # Node.js Exploration
+A self-study project
 
 ## Motiviation
 It's very likely I'll be interning at a local company in Software Development,
