@@ -1,0 +1,22 @@
+{
+  "name": "learnyounode",
+  "version": "1.0.0",
+  "description": "A self-study project",
+  "dependencies": {
+    "concat-stream": "^1.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luki/node_js-exploration.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luki/node_js-exploration/issues"
+  },
+  "homepage": "https://github.com/luki/node_js-exploration#readme"
+}
