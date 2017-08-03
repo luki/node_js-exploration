@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A self-study project",
   "dependencies": {
+    "@types/node": "^8.0.19",
     "concat-stream": "^1.6.0"
   },
   "devDependencies": {},
